@@ -1,0 +1,615 @@
+
+p, ul,label,legend {
+    color: #a0a0a0;
+}
+
+
+// CSS 簡單讓 TABLE 的底色奇數偶數相間               odd：奇數  even：偶數
+.table tr:nth-child(even) { background: #904e6f; color:#0000ff;}        
+.table tr:nth-child(even) { background: #e5e5e5; color:#000000;}         
+.table tr:nth-child(odd) { background: #6c757d; color:#ffffff; }   
+
+
+
+.my-text-color-904e6f { color: #904e6f; }
+
+
+.my-border-42464c { border: #42464c; }
+
+
+.my-bg-color-34383d { background: #34383d; }
+.my-bg-color-904e6f { background-color: #904e6f; }
+.my-bg-color-ff9d1c { background-color: #ff9d1c; }
+
+
+
+
+.mt-n1 { margin-top: -0.25rem !important; }
+.mt-n2 { margin-top: -0.5rem !important; }
+.mt-n3 { margin-top: -0.75rem !important; }
+.mt-n3 { margin-top: -1rem !important; }
+.mt-n4 { margin-top: -1.25rem !important; }
+.mt-n5 { margin-top: -1.5rem !important; }
+
+
+.mb-n1 { margin-bottom: -0.25rem !important; }
+.mb-n2 { margin-bottom: -0.5rem !important; }
+.mb-n3 { margin-bottom: -0.75rem !important; }
+.mb-n3 { margin-bottom: -1rem !important; }
+.mb-n4 { margin-bottom: -1.25rem !important; }
+.mb-n5 { margin-bottom: -1.5rem !important; }
+
+
+.my-width-001 {display:inline-block; width:1px;}
+.my-width-002 {display:inline-block; width:2px;}
+.my-width-003 {display:inline-block; width:3px;}
+.my-width-004 {display:inline-block; width:4px;}
+.my-width-005 {display:inline-block; width:5px;}
+.my-width-006 {display:inline-block; width:6px;}
+.my-width-007 {display:inline-block; width:7px;}
+.my-width-008 {display:inline-block; width:8px;}
+.my-width-009 {display:inline-block; width:9px;}
+.my-width-010 {display:inline-block; width:10px;}
+.my-width-011 {display:inline-block; width:11px;}
+.my-width-012 {display:inline-block; width:12px;}
+.my-width-013 {display:inline-block; width:13px;}
+.my-width-014 {display:inline-block; width:14px;}
+.my-width-015 {display:inline-block; width:15px;}
+.my-width-016 {display:inline-block; width:16px;}
+.my-width-017 {display:inline-block; width:17px;}
+.my-width-018 {display:inline-block; width:18px;}
+.my-width-019 {display:inline-block; width:19px;}
+.my-width-020 {display:inline-block; width:20px;}
+.my-width-021 {display:inline-block; width:21px;}
+.my-width-022 {display:inline-block; width:22px;}
+.my-width-023 {display:inline-block; width:23px;}
+.my-width-024 {display:inline-block; width:24px;}
+.my-width-025 {display:inline-block; width:25px;}
+.my-width-026 {display:inline-block; width:26px;}
+.my-width-027 {display:inline-block; width:27px;}
+.my-width-028 {display:inline-block; width:28px;}
+.my-width-029 {display:inline-block; width:29px;}
+.my-width-030 {display:inline-block; width:30px;}
+.my-width-031 {display:inline-block; width:31px;}
+.my-width-032 {display:inline-block; width:32px;}
+.my-width-033 {display:inline-block; width:33px;}
+.my-width-034 {display:inline-block; width:34px;}
+.my-width-035 {display:inline-block; width:35px;}
+.my-width-036 {display:inline-block; width:36px;}
+.my-width-037 {display:inline-block; width:37px;}
+.my-width-038 {display:inline-block; width:38px;}
+.my-width-039 {display:inline-block; width:39px;}
+.my-width-040 {display:inline-block; width:40px;}
+.my-width-041 {display:inline-block; width:41px;}
+.my-width-042 {display:inline-block; width:42px;}
+.my-width-043 {display:inline-block; width:43px;}
+.my-width-044 {display:inline-block; width:44px;}
+.my-width-045 {display:inline-block; width:45px;}
+.my-width-046 {display:inline-block; width:46px;}
+.my-width-047 {display:inline-block; width:47px;}
+.my-width-048 {display:inline-block; width:48px;}
+.my-width-049 {display:inline-block; width:49px;}
+.my-width-050 {display:inline-block; width:50px;}
+.my-width-051 {display:inline-block; width:51px;}
+.my-width-052 {display:inline-block; width:52px;}
+.my-width-053 {display:inline-block; width:53px;}
+.my-width-054 {display:inline-block; width:54px;}
+.my-width-055 {display:inline-block; width:55px;}
+.my-width-056 {display:inline-block; width:56px;}
+.my-width-057 {display:inline-block; width:57px;}
+.my-width-058 {display:inline-block; width:58px;}
+.my-width-059 {display:inline-block; width:59px;}
+.my-width-060 {display:inline-block; width:60px;}
+.my-width-061 {display:inline-block; width:61px;}
+.my-width-062 {display:inline-block; width:62px;}
+.my-width-063 {display:inline-block; width:63px;}
+.my-width-064 {display:inline-block; width:64px;}
+.my-width-065 {display:inline-block; width:65px;}
+.my-width-066 {display:inline-block; width:66px;}
+.my-width-067 {display:inline-block; width:67px;}
+.my-width-068 {display:inline-block; width:68px;}
+.my-width-069 {display:inline-block; width:69px;}
+.my-width-070 {display:inline-block; width:70px;}
+.my-width-071 {display:inline-block; width:71px;}
+.my-width-072 {display:inline-block; width:72px;}
+.my-width-073 {display:inline-block; width:73px;}
+.my-width-074 {display:inline-block; width:74px;}
+.my-width-075 {display:inline-block; width:75px;}
+.my-width-076 {display:inline-block; width:76px;}
+.my-width-077 {display:inline-block; width:77px;}
+.my-width-078 {display:inline-block; width:78px;}
+.my-width-079 {display:inline-block; width:79px;}
+.my-width-080 {display:inline-block; width:80px;}
+.my-width-081 {display:inline-block; width:81px;}
+.my-width-082 {display:inline-block; width:82px;}
+.my-width-083 {display:inline-block; width:83px;}
+.my-width-084 {display:inline-block; width:84px;}
+.my-width-085 {display:inline-block; width:85px;}
+.my-width-086 {display:inline-block; width:86px;}
+.my-width-087 {display:inline-block; width:87px;}
+.my-width-088 {display:inline-block; width:88px;}
+.my-width-089 {display:inline-block; width:89px;}
+.my-width-090 {display:inline-block; width:90px;}
+.my-width-091 {display:inline-block; width:91px;}
+.my-width-092 {display:inline-block; width:92px;}
+.my-width-093 {display:inline-block; width:93px;}
+.my-width-094 {display:inline-block; width:94px;}
+.my-width-095 {display:inline-block; width:95px;}
+.my-width-096 {display:inline-block; width:96px;}
+.my-width-097 {display:inline-block; width:97px;}
+.my-width-098 {display:inline-block; width:98px;}
+.my-width-099 {display:inline-block; width:99px;}
+.my-width-100 {display:inline-block; width:100px;}
+.my-width-101 {display:inline-block; width:101px;}
+.my-width-102 {display:inline-block; width:102px;}
+.my-width-103 {display:inline-block; width:103px;}
+.my-width-104 {display:inline-block; width:104px;}
+.my-width-105 {display:inline-block; width:105px;}
+.my-width-106 {display:inline-block; width:106px;}
+.my-width-107 {display:inline-block; width:107px;}
+.my-width-108 {display:inline-block; width:108px;}
+.my-width-109 {display:inline-block; width:109px;}
+.my-width-110 {display:inline-block; width:110px;}
+.my-width-111 {display:inline-block; width:111px;}
+.my-width-112 {display:inline-block; width:112px;}
+.my-width-113 {display:inline-block; width:113px;}
+.my-width-114 {display:inline-block; width:114px;}
+.my-width-115 {display:inline-block; width:115px;}
+.my-width-116 {display:inline-block; width:116px;}
+.my-width-117 {display:inline-block; width:117px;}
+.my-width-118 {display:inline-block; width:118px;}
+.my-width-119 {display:inline-block; width:119px;}
+.my-width-120 {display:inline-block; width:120px;}
+.my-width-121 {display:inline-block; width:121px;}
+.my-width-122 {display:inline-block; width:122px;}
+.my-width-123 {display:inline-block; width:123px;}
+.my-width-124 {display:inline-block; width:124px;}
+.my-width-125 {display:inline-block; width:125px;}
+.my-width-126 {display:inline-block; width:126px;}
+.my-width-127 {display:inline-block; width:127px;}
+.my-width-128 {display:inline-block; width:128px;}
+.my-width-129 {display:inline-block; width:129px;}
+.my-width-130 {display:inline-block; width:130px;}
+.my-width-131 {display:inline-block; width:131px;}
+.my-width-132 {display:inline-block; width:132px;}
+.my-width-133 {display:inline-block; width:133px;}
+.my-width-134 {display:inline-block; width:134px;}
+.my-width-135 {display:inline-block; width:135px;}
+.my-width-136 {display:inline-block; width:136px;}
+.my-width-137 {display:inline-block; width:137px;}
+.my-width-138 {display:inline-block; width:138px;}
+.my-width-139 {display:inline-block; width:139px;}
+.my-width-140 {display:inline-block; width:140px;}
+.my-width-141 {display:inline-block; width:141px;}
+.my-width-142 {display:inline-block; width:142px;}
+.my-width-143 {display:inline-block; width:143px;}
+.my-width-144 {display:inline-block; width:144px;}
+.my-width-145 {display:inline-block; width:145px;}
+.my-width-146 {display:inline-block; width:146px;}
+.my-width-147 {display:inline-block; width:147px;}
+.my-width-148 {display:inline-block; width:148px;}
+.my-width-149 {display:inline-block; width:149px;}
+.my-width-150 {display:inline-block; width:150px;}
+.my-width-151 {display:inline-block; width:151px;}
+.my-width-152 {display:inline-block; width:152px;}
+.my-width-153 {display:inline-block; width:153px;}
+.my-width-154 {display:inline-block; width:154px;}
+.my-width-155 {display:inline-block; width:155px;}
+.my-width-156 {display:inline-block; width:156px;}
+.my-width-157 {display:inline-block; width:157px;}
+.my-width-158 {display:inline-block; width:158px;}
+.my-width-159 {display:inline-block; width:159px;}
+.my-width-160 {display:inline-block; width:160px;}
+.my-width-161 {display:inline-block; width:161px;}
+.my-width-162 {display:inline-block; width:162px;}
+.my-width-163 {display:inline-block; width:163px;}
+.my-width-164 {display:inline-block; width:164px;}
+.my-width-165 {display:inline-block; width:165px;}
+.my-width-166 {display:inline-block; width:166px;}
+.my-width-167 {display:inline-block; width:167px;}
+.my-width-168 {display:inline-block; width:168px;}
+.my-width-169 {display:inline-block; width:169px;}
+.my-width-170 {display:inline-block; width:170px;}
+.my-width-171 {display:inline-block; width:171px;}
+.my-width-172 {display:inline-block; width:172px;}
+.my-width-173 {display:inline-block; width:173px;}
+.my-width-174 {display:inline-block; width:174px;}
+.my-width-175 {display:inline-block; width:175px;}
+.my-width-176 {display:inline-block; width:176px;}
+.my-width-177 {display:inline-block; width:177px;}
+.my-width-178 {display:inline-block; width:178px;}
+.my-width-179 {display:inline-block; width:179px;}
+.my-width-180 {display:inline-block; width:180px;}
+.my-width-181 {display:inline-block; width:181px;}
+.my-width-182 {display:inline-block; width:182px;}
+.my-width-183 {display:inline-block; width:183px;}
+.my-width-184 {display:inline-block; width:184px;}
+.my-width-185 {display:inline-block; width:185px;}
+.my-width-186 {display:inline-block; width:186px;}
+.my-width-187 {display:inline-block; width:187px;}
+.my-width-188 {display:inline-block; width:188px;}
+.my-width-189 {display:inline-block; width:189px;}
+.my-width-190 {display:inline-block; width:190px;}
+.my-width-191 {display:inline-block; width:191px;}
+.my-width-192 {display:inline-block; width:192px;}
+.my-width-193 {display:inline-block; width:193px;}
+.my-width-194 {display:inline-block; width:194px;}
+.my-width-195 {display:inline-block; width:195px;}
+.my-width-196 {display:inline-block; width:196px;}
+.my-width-197 {display:inline-block; width:197px;}
+.my-width-198 {display:inline-block; width:198px;}
+.my-width-199 {display:inline-block; width:199px;}
+.my-width-200 {display:inline-block; width:200px;}
+.my-width-201 {display:inline-block; width:201px;}
+.my-width-202 {display:inline-block; width:202px;}
+.my-width-203 {display:inline-block; width:203px;}
+.my-width-204 {display:inline-block; width:204px;}
+.my-width-205 {display:inline-block; width:205px;}
+.my-width-206 {display:inline-block; width:206px;}
+.my-width-207 {display:inline-block; width:207px;}
+.my-width-208 {display:inline-block; width:208px;}
+.my-width-209 {display:inline-block; width:209px;}
+.my-width-210 {display:inline-block; width:210px;}
+.my-width-211 {display:inline-block; width:211px;}
+.my-width-212 {display:inline-block; width:212px;}
+.my-width-213 {display:inline-block; width:213px;}
+.my-width-214 {display:inline-block; width:214px;}
+.my-width-215 {display:inline-block; width:215px;}
+.my-width-216 {display:inline-block; width:216px;}
+.my-width-217 {display:inline-block; width:217px;}
+.my-width-218 {display:inline-block; width:218px;}
+.my-width-219 {display:inline-block; width:219px;}
+.my-width-220 {display:inline-block; width:220px;}
+.my-width-221 {display:inline-block; width:221px;}
+.my-width-222 {display:inline-block; width:222px;}
+.my-width-223 {display:inline-block; width:223px;}
+.my-width-224 {display:inline-block; width:224px;}
+.my-width-225 {display:inline-block; width:225px;}
+.my-width-226 {display:inline-block; width:226px;}
+.my-width-227 {display:inline-block; width:227px;}
+.my-width-228 {display:inline-block; width:228px;}
+.my-width-229 {display:inline-block; width:229px;}
+.my-width-230 {display:inline-block; width:230px;}
+.my-width-231 {display:inline-block; width:231px;}
+.my-width-232 {display:inline-block; width:232px;}
+.my-width-233 {display:inline-block; width:233px;}
+.my-width-234 {display:inline-block; width:234px;}
+.my-width-235 {display:inline-block; width:235px;}
+.my-width-236 {display:inline-block; width:236px;}
+.my-width-237 {display:inline-block; width:237px;}
+.my-width-238 {display:inline-block; width:238px;}
+.my-width-239 {display:inline-block; width:239px;}
+.my-width-240 {display:inline-block; width:240px;}
+.my-width-241 {display:inline-block; width:241px;}
+.my-width-242 {display:inline-block; width:242px;}
+.my-width-243 {display:inline-block; width:243px;}
+.my-width-244 {display:inline-block; width:244px;}
+.my-width-245 {display:inline-block; width:245px;}
+.my-width-246 {display:inline-block; width:246px;}
+.my-width-247 {display:inline-block; width:247px;}
+.my-width-248 {display:inline-block; width:248px;}
+.my-width-249 {display:inline-block; width:249px;}
+.my-width-250 {display:inline-block; width:250px;}
+.my-width-251 {display:inline-block; width:251px;}
+.my-width-252 {display:inline-block; width:252px;}
+.my-width-253 {display:inline-block; width:253px;}
+.my-width-254 {display:inline-block; width:254px;}
+.my-width-255 {display:inline-block; width:255px;}
+.my-width-256 {display:inline-block; width:256px;}
+.my-width-257 {display:inline-block; width:257px;}
+.my-width-258 {display:inline-block; width:258px;}
+.my-width-259 {display:inline-block; width:259px;}
+.my-width-260 {display:inline-block; width:260px;}
+.my-width-261 {display:inline-block; width:261px;}
+.my-width-262 {display:inline-block; width:262px;}
+.my-width-263 {display:inline-block; width:263px;}
+.my-width-264 {display:inline-block; width:264px;}
+.my-width-265 {display:inline-block; width:265px;}
+.my-width-266 {display:inline-block; width:266px;}
+.my-width-267 {display:inline-block; width:267px;}
+.my-width-268 {display:inline-block; width:268px;}
+.my-width-269 {display:inline-block; width:269px;}
+.my-width-270 {display:inline-block; width:270px;}
+.my-width-271 {display:inline-block; width:271px;}
+.my-width-272 {display:inline-block; width:272px;}
+.my-width-273 {display:inline-block; width:273px;}
+.my-width-274 {display:inline-block; width:274px;}
+.my-width-275 {display:inline-block; width:275px;}
+.my-width-276 {display:inline-block; width:276px;}
+.my-width-277 {display:inline-block; width:277px;}
+.my-width-278 {display:inline-block; width:278px;}
+.my-width-279 {display:inline-block; width:279px;}
+.my-width-280 {display:inline-block; width:280px;}
+.my-width-281 {display:inline-block; width:281px;}
+.my-width-282 {display:inline-block; width:282px;}
+.my-width-283 {display:inline-block; width:283px;}
+.my-width-284 {display:inline-block; width:284px;}
+.my-width-285 {display:inline-block; width:285px;}
+.my-width-286 {display:inline-block; width:286px;}
+.my-width-287 {display:inline-block; width:287px;}
+.my-width-288 {display:inline-block; width:288px;}
+.my-width-289 {display:inline-block; width:289px;}
+.my-width-290 {display:inline-block; width:290px;}
+.my-width-291 {display:inline-block; width:291px;}
+.my-width-292 {display:inline-block; width:292px;}
+.my-width-293 {display:inline-block; width:293px;}
+.my-width-294 {display:inline-block; width:294px;}
+.my-width-295 {display:inline-block; width:295px;}
+.my-width-296 {display:inline-block; width:296px;}
+.my-width-297 {display:inline-block; width:297px;}
+.my-width-298 {display:inline-block; width:298px;}
+.my-width-299 {display:inline-block; width:299px;}
+.my-width-300 {display:inline-block; width:300px;}
+.my-width-301 {display:inline-block; width:301px;}
+.my-width-302 {display:inline-block; width:302px;}
+.my-width-303 {display:inline-block; width:303px;}
+.my-width-304 {display:inline-block; width:304px;}
+.my-width-305 {display:inline-block; width:305px;}
+.my-width-306 {display:inline-block; width:306px;}
+.my-width-307 {display:inline-block; width:307px;}
+.my-width-308 {display:inline-block; width:308px;}
+.my-width-309 {display:inline-block; width:309px;}
+.my-width-310 {display:inline-block; width:310px;}
+.my-width-311 {display:inline-block; width:311px;}
+.my-width-312 {display:inline-block; width:312px;}
+.my-width-313 {display:inline-block; width:313px;}
+.my-width-314 {display:inline-block; width:314px;}
+.my-width-315 {display:inline-block; width:315px;}
+.my-width-316 {display:inline-block; width:316px;}
+.my-width-317 {display:inline-block; width:317px;}
+.my-width-318 {display:inline-block; width:318px;}
+.my-width-319 {display:inline-block; width:319px;}
+.my-width-320 {display:inline-block; width:320px;}
+.my-width-321 {display:inline-block; width:321px;}
+.my-width-322 {display:inline-block; width:322px;}
+.my-width-323 {display:inline-block; width:323px;}
+.my-width-324 {display:inline-block; width:324px;}
+.my-width-325 {display:inline-block; width:325px;}
+.my-width-326 {display:inline-block; width:326px;}
+.my-width-327 {display:inline-block; width:327px;}
+.my-width-328 {display:inline-block; width:328px;}
+.my-width-329 {display:inline-block; width:329px;}
+.my-width-330 {display:inline-block; width:330px;}
+.my-width-331 {display:inline-block; width:331px;}
+.my-width-332 {display:inline-block; width:332px;}
+.my-width-333 {display:inline-block; width:333px;}
+.my-width-334 {display:inline-block; width:334px;}
+.my-width-335 {display:inline-block; width:335px;}
+.my-width-336 {display:inline-block; width:336px;}
+.my-width-337 {display:inline-block; width:337px;}
+.my-width-338 {display:inline-block; width:338px;}
+.my-width-339 {display:inline-block; width:339px;}
+.my-width-340 {display:inline-block; width:340px;}
+.my-width-341 {display:inline-block; width:341px;}
+.my-width-342 {display:inline-block; width:342px;}
+.my-width-343 {display:inline-block; width:343px;}
+.my-width-344 {display:inline-block; width:344px;}
+.my-width-345 {display:inline-block; width:345px;}
+.my-width-346 {display:inline-block; width:346px;}
+.my-width-347 {display:inline-block; width:347px;}
+.my-width-348 {display:inline-block; width:348px;}
+.my-width-349 {display:inline-block; width:349px;}
+.my-width-350 {display:inline-block; width:350px;}
+.my-width-351 {display:inline-block; width:351px;}
+.my-width-352 {display:inline-block; width:352px;}
+.my-width-353 {display:inline-block; width:353px;}
+.my-width-354 {display:inline-block; width:354px;}
+.my-width-355 {display:inline-block; width:355px;}
+.my-width-356 {display:inline-block; width:356px;}
+.my-width-357 {display:inline-block; width:357px;}
+.my-width-358 {display:inline-block; width:358px;}
+.my-width-359 {display:inline-block; width:359px;}
+.my-width-360 {display:inline-block; width:360px;}
+.my-width-361 {display:inline-block; width:361px;}
+.my-width-362 {display:inline-block; width:362px;}
+.my-width-363 {display:inline-block; width:363px;}
+.my-width-364 {display:inline-block; width:364px;}
+.my-width-365 {display:inline-block; width:365px;}
+.my-width-366 {display:inline-block; width:366px;}
+.my-width-367 {display:inline-block; width:367px;}
+.my-width-368 {display:inline-block; width:368px;}
+.my-width-369 {display:inline-block; width:369px;}
+.my-width-370 {display:inline-block; width:370px;}
+.my-width-371 {display:inline-block; width:371px;}
+.my-width-372 {display:inline-block; width:372px;}
+.my-width-373 {display:inline-block; width:373px;}
+.my-width-374 {display:inline-block; width:374px;}
+.my-width-375 {display:inline-block; width:375px;}
+.my-width-376 {display:inline-block; width:376px;}
+.my-width-377 {display:inline-block; width:377px;}
+.my-width-378 {display:inline-block; width:378px;}
+.my-width-379 {display:inline-block; width:379px;}
+.my-width-380 {display:inline-block; width:380px;}
+.my-width-381 {display:inline-block; width:381px;}
+.my-width-382 {display:inline-block; width:382px;}
+.my-width-383 {display:inline-block; width:383px;}
+.my-width-384 {display:inline-block; width:384px;}
+.my-width-385 {display:inline-block; width:385px;}
+.my-width-386 {display:inline-block; width:386px;}
+.my-width-387 {display:inline-block; width:387px;}
+.my-width-388 {display:inline-block; width:388px;}
+.my-width-389 {display:inline-block; width:389px;}
+.my-width-390 {display:inline-block; width:390px;}
+.my-width-391 {display:inline-block; width:391px;}
+.my-width-392 {display:inline-block; width:392px;}
+.my-width-393 {display:inline-block; width:393px;}
+.my-width-394 {display:inline-block; width:394px;}
+.my-width-395 {display:inline-block; width:395px;}
+.my-width-396 {display:inline-block; width:396px;}
+.my-width-397 {display:inline-block; width:397px;}
+.my-width-398 {display:inline-block; width:398px;}
+.my-width-399 {display:inline-block; width:399px;}
+.my-width-400 {display:inline-block; width:400px;}
+
+.my-width-700 { display:inline-block; width:700px;} 
+
+
+
+
+.highlight:hover .copy-btn,
+pre:hover .copy-btn {
+  opacity: 1;
+  border: 4px solid #fc625d;
+}
+
+.highlight:hover .copy-btn,
+pre:hover .copy-btn {
+  opacity: 1;
+}
+.copy-btn {
+  color: #333;
+  cursor: pointer;
+  line-height: 1.6;
+  opacity: 0;
+  padding: 2px 6px;
+  position: absolute;
+  transition: opacity 0.2s ease-in-out;
+  color: var(--highlight-foreground);
+  font-size: 14px;
+  right: 0;
+  top: 2px;
+}
+figure.highlight {
+  border-radius: 5px;
+  box-shadow: 0 10px 30px 0 rgba(0,0,0,0.4);
+  padding-top: 30px;
+}
+figure.highlight .table-container {
+  border-radius: 0 0 5px 5px;
+}
+figure.highlight::before {
+  background: #fc625d;
+  box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;
+  left: 12px;
+  margin-top: -20px;
+  position: absolute;
+  border-radius: 50%;
+  content: ' ';
+  height: 12px;
+  width: 12px;
+}
+code,
+kbd,
+figure.highlight,
+pre {
+  background: var(--highlight-background);
+  color: var(--highlight-foreground);
+}
+figure.highlight,
+pre {
+  line-height: 1.6;
+  margin: 0 auto 20px;
+}
+pre,
+code {
+  font-family: consolas, Menlo, monospace, 'PingFang SC', 'Microsoft YaHei';
+}
+code {
+  border-radius: 3px;
+  font-size: 0.875em;
+  padding: 2px 4px;
+  overflow-wrap: break-word;
+}
+
+
+figure.highlight {
+    position: relative;
+  }
+  figure.highlight pre {
+    border: 0;
+    margin: 0;
+    padding: 10px 0;
+  }
+  figure.highlight table {
+    border: 0;
+    margin: 0;
+    width: auto;
+  }
+  figure.highlight td {
+    border: 0;
+    padding: 0;
+  }
+  figure.highlight figcaption,
+  pre .caption,
+  pre figcaption {
+    background: var(--highlight-gutter-background);
+    color: var(--highlight-foreground);
+    display: flow-root;
+    font-size: 0.875em;
+    line-height: 1.2;
+    padding: 0.5em;
+  }
+  figure.highlight figcaption a,
+  pre .caption a,
+  pre figcaption a {
+    color: var(--highlight-foreground);
+    float: right;
+  }
+  figure.highlight figcaption a:hover,
+  pre .caption a:hover,
+  pre figcaption a:hover {
+    border-bottom-color: var(--highlight-foreground);
+  }
+  figure.highlight .gutter {
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+  }
+  figure.highlight .gutter pre {
+    background: var(--highlight-gutter-background);
+    color: var(--highlight-gutter-foreground);
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: right;
+  }
+  figure.highlight .code pre {
+    padding-left: 10px;
+    width: 100%;
+  }
+  pre .caption,
+  pre figcaption {
+    margin-bottom: 10px;
+  }
+
+
+  /* **************highlight */
+  figure.highlight {
+    overflow: hidden;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px 0 #000;
+    background: var(--highlight-gutter-background);
+  }
+  figure.highlight figcaption {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    background: unset;
+  }
+  figure.highlight .table-container {
+    background: var(--highlight-background);
+  }
+  figure.highlight .table-container::-webkit-scrollbar {
+    height: 3px;
+  }
+  figure.highlight .table-container::-webkit-scrollbar-thumb {
+    background-color: var(--main);
+  }
+  /* ***********header banner style */
+
+
+
+  .btn .fa-fw {
+    text-align: left;
+    width: 1.285714285714286em;
+  }
+
+
+
+
+
+
+
+
