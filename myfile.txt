@@ -2,3 +2,6 @@
 add 修改加入書籤
 commit 記錄索引的狀態 (issue2)
 pull 取得遠端數據庫的內容 (issue3)
+
+
+我們試試用 revert 命令來取消「添加pull的説明」的提交吧！
